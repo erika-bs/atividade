@@ -29,7 +29,7 @@ li {
     margin: 10px;
 }
 
-a {
+.menu-link {
     text-decoration: none;
 }
 
@@ -46,6 +46,7 @@ li a:hover{
 
 .menu {
     margin-right: 3%;
+    text-decoration: none;
 }
 
 

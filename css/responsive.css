@@ -9,6 +9,12 @@
         margin-left: 10px;
     }
 
+    ul li {
+        font-size: 10pt;
+        margin:0;
+        padding: 15px;
+    }
+
     .banner {
         height: 300px;
         background-position: 50% 60%;
@@ -47,6 +53,11 @@
         margin-left: 20px;
     }
 
+    ul li {
+        font-size: 10pt;
+        margin:0;
+        padding: 15px;
+    }
    
 
     .banner {
